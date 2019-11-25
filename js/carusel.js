@@ -22,7 +22,8 @@ $(document).ready(function(){
                 items:2
             },
             768:{
-                items:2
+                items:2,
+                margin:250
             },
              900:{
                 items:3
@@ -63,7 +64,8 @@ $(document).ready(function(){
                 items:2
             },
             768:{
-                items:2
+                items:2,
+                margin:250
             },
             900:{
                 items:3
